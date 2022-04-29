@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 import java.time.Month;
 
 import edu.uaslp.objetos.taskslist.TaskList.Task;
-import edu.uaslp.objetos.taskslist.TaskList.TaskListException;
+import edu.uaslp.objetos.taskslist.exception.TaskListException;
 import org.junit.jupiter.api.Test;
 
 public class TaskTest {

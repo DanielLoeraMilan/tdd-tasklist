@@ -1,5 +1,7 @@
 package edu.uaslp.objetos.taskslist.TaskList;
 
+import edu.uaslp.objetos.taskslist.exception.TaskListException;
+
 import java.time.LocalDateTime;
 
 public class Task {
